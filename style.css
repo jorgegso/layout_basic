@@ -52,7 +52,7 @@ body{
     font-size: 0.7;
     margin:0;
 }
-/* pantalla chica  nav*/
+/* small screen */
 @media only screen and (max-width: 600px){
     .main-nav{
         font-size: 0.5em;
